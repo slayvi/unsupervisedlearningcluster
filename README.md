@@ -31,3 +31,6 @@ If you choose to use the *requirements.txt* for **pyLDAvis**, you'll have to int
 ## Structure of the Repo:
 The feature selection part, where the most recent data is retrieved, is conducted in the file *feature_selection.py*. 
 All following implementations are stored in the file *main_notebook.ipynb*.
+The folder *pics* contains the pictures created in this repository, including the Silhouette Scores. 
+The folder *data* simple contains the link to the used dataset due to storage restriction.
+The folder *model* contains some results of the models, including the html file for pyLDAvis.
