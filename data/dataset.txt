@@ -1,0 +1,2 @@
+This folder stays empty for now. The dataset can be retrieved from
+https://www.kaggle.com/datasets/1b6883fb66c5e7f67c697c2547022cc04c9ee98c3742f9a4d6c671b4f4eda591/versions/110
