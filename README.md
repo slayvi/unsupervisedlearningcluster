@@ -26,3 +26,8 @@ If you choose to use the *requirements.txt* for **pyLDAvis**, you'll have to int
 
 
 &nbsp;
+
+
+## Structure of the Repo:
+The feature selection part, where the most recent data is retrieved, is conducted in the file *feature_selection.py*. 
+All following implementations are stored in the file *main_notebook.ipynb*.
