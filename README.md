@@ -25,3 +25,7 @@ If you choose to use the *requirements.txt* for **pyLDAvis**, you'll have to int
 
 
 &nbsp;
+
+### The Dataset
+
+Due to github's restrictions of datasize, the used dataset can't be uploaded to this repository. The used version is ** and can be retrieved from [this page](https://www.kaggle.com/datasets/1b6883fb66c5e7f67c697c2547022cc04c9ee98c3742f9a4d6c671b4f4eda591/versions/110).
